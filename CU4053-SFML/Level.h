@@ -19,6 +19,13 @@ public:
 private:
 	// Default functions for rendering to the screen.
 	
+	sf::RectangleShape rectangl;
+	sf::CircleShape circl;
+	sf::CircleShape circlBall;
+
+	float speed;
+	float bounceSpeedX;
+	float bounceSpeedY;
 
 	// Default variables for level class.
 	
