@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CU4012-SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BaseLevel.cpp
+  Input.cpp
+  Level.cpp
+  Main.cpp
+  Generating Code...
+  CU4053-SFML.vcxproj -> C:\Users\yadavu\Downloads\CU4012-Week-14-Buffering-LondonMet-f0467f34de4c166beb61f0255e63c9343dc9c60d\CU4012-Week-14-Buffering-LondonMet-f0467f34de4c166beb61f0255e63c9343dc9c60d\x64\Debug\CU4053-SFML.exe
